@@ -352,7 +352,7 @@ function printOptions()
   echo "Enter 1-8 to continue, or press any key to exit
     1. Install container-related packages (Docker, Kubectl, Minikube, and Helm)
     2. Install Git
-    3. Install Nginx (to prep for a local-reverse-proxy)
+    3. Install Nginx
     4. Install all of the above packages
     5. Add Kubernetes bash aliases
     6. Enable SSH

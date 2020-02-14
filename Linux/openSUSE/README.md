@@ -61,7 +61,7 @@ Which version of Helm would you like to install?
 Install Git
 
 #### Option 3: Install Nginx
-Install and configure Nginx, preparing it with the necessary configuration to use with k8s-external-providers.
+Install and configure Nginx.
 
 #### Option 4: Install all of the above packages
 This option installs all container-related packages, along with Git and Nginx, when complete the following will be installed:
