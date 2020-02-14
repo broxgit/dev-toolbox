@@ -1,4 +1,4 @@
-FROM suse/opensuse
+FROM opensuse/leap
 
 COPY cert-service .
 
