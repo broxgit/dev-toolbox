@@ -1,5 +1,7 @@
 # Certificate Service in GoLang      
+A service designed to create, sign, and manage certificates.     
 
+Co-Author: [Cody Titmus](https://github.com/titmuscody)
 ## Running in Docker
 Within the root of the cert-service directory, run the following commands: 
 ### Build the Go Binary:
